@@ -1,7 +1,13 @@
 body{
+<<<<<<< HEAD
   background-color:;
   font-family: 'Monaco', sans-serif;
   color: ;
+=======
+  background-color: green;
+  font-family: 'Monaco', sans-serif;
+  color: black;
+>>>>>>> iss53
 }
 
 body a{
